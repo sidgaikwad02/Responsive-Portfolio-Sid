@@ -8,4 +8,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+![preview](https://github.com/sidgaikwad02/Responsive-Portfolio-Sid-main/assets/122147175/266aa898-8706-43ce-a7bd-ca5101798315)
+
